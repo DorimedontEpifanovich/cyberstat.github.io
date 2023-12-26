@@ -1,2 +1,2 @@
 # cyberstat.github.io
-This resurce dedicated to cybersecurity staticstic aspects
+This resource dedicated to cybersecurity staticstic aspects
